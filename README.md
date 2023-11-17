@@ -9,6 +9,14 @@
 
 - 🌱 I’m currently learning **Data Science**
 
+## Mv Github Stats
+! [Github Stats 3] (https://github-readme-stats.vercel.app/api?username=ANIRUDDHA-BISWAS)
+
+! [Github Stats 2] (https://github-readme-streak-stats.herokuapp.com/?user=ANIRUDDHA-BISWAS)
+
+! [Github Stats 1] (https://github-readme-stats.vercel.app/api/top-langs/?username=ANIRUDDHA-BISWAS)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aniruddha-biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniruddha-biswas" height="30" width="40" /></a>
