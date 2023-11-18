@@ -1,44 +1,36 @@
 <h1 align="center">Hi 👋, I'm Aniruddha Biswas</h1>
 <h3 align="center">I am a Data Enthusiast👨‍💻</h3>
 
-<h5 align="justify">In my current role as an administrative officer at an educational institute, I am dedicated to ensuring the smooth functioning of our organization. I recognize that satisfaction in this position is akin to a journal of achievements. It entails meticulous attention to detail, effective coordination, and the constant pursuit of improvement, much like the learning experience records I'm building in my journey of data analysis and machine learning. It involves not only celebrating successes but also embracing the valuable lessons learned from facing challenges, refining strategies, overcoming setbacks, and ultimately achieving our educational goals.</h5>
-
-
+<p align="justify">In my current role as an administrative officer at an educational institute, I am dedicated to ensuring the smooth functioning of our organization. Satisfaction in this position is akin to a journal of achievements. It involves meticulous attention to detail, effective coordination, the pursuit of improvement, and learning from both successes and challenges. My goal is to continuously enhance our educational goals through data analysis and machine learning.</p>
 
 - 🔭 I’m currently working on **EduBest**
-
 - 👯 I'm looking for a career shift **In Data field**
-
 - 🌱 I’m currently learning **Data Science**
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ANIRUDDHA-BISWAS&label=Profile%20views&color=0e75b6&style=flat" alt="ANIRUDDHA-BISWAS" style="width:150px; height:auto;" />
+</p>
 
 
 ## My Github Stats
 
-
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ANIRUDDHA-BISWAS&show_icons=true&theme=shadow_blue" alt="Aniruddha's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANIRUDDHA-BISWAS" alt="Aniruddha's GitHub streak stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddha-biswas&show_icons=true&locale=en&layout=compact" alt="aniruddha-biswas" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/aniruddha-biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniruddha-biswas" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/aniruddha biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniruddha biswas" height="30" width="40" /></a>
-  <a href="mailto:your-email@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="your-email" height="30" width="40" /></a>
-  <a href="https://github.com/your-username" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="your-username" height="30" width="40" /></a>
-  <a href="https://your-website.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/internet/internet-ar21.svg" alt="your-website" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/your-username" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="your-kaggle-username" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddha-biswas&show_icons=true&locale=en&layout=compact" alt="aniruddha-biswas" />
 </p>
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/aniruddha-biswas" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniruddha-biswas" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/aniruddha biswas" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniruddha biswas" height="30" width="40" /></a>
+  <!-- Add your other social links here -->
+</p>
 
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <!-- Add your languages and tools icons here -->
+</p>
