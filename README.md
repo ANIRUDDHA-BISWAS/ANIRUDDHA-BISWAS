@@ -12,41 +12,20 @@
 </p>
 
 
-## My Github Stats
+## 📊 My Github Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANIRUDDHA-BISWAS&show_icons=true&theme=shadow_blue" alt="Aniruddha's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANIRUDDHA-BISWAS" alt="Aniruddha's GitHub streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddha-biswas&show_icons=true&locale=en&layout=compact" alt="aniruddha-biswas" />
-</p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/aniruddha-biswas" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniruddha-biswas" height="30" width="40" /></a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40" /></a>
-  <a href="https://aniruddhaa.in" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/aniruddha biswas" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniruddha biswas" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/your-kaggle-username" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" height="30" width="40" /></a>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=ANIRUDDHA-BISWAS&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ANIRUDDHA-BISWAS&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANIRUDDHA-BISWAS&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
-
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
-  <!-- Add other social links with their respective icons -->
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniruddha-biswas/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/anirudhaa)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yourusername)
+[![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?logo=resume&logoColor=white)](https://)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=portfolio&logoColor=white)](https://)
 
 
 
