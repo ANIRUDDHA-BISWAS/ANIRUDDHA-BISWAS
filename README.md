@@ -29,8 +29,6 @@
   <a href="mailto:your-email@gmail.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40" /></a>
   <a href="https://aniruddhaa.in" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/internet/internet-ar21.svg" alt="Website" height="30" width="40" /></a>
-  <a href="https://github.com/your-github-username" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/aniruddha biswas" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniruddha biswas" height="30" width="40" /></a>
   <a href="https://www.kaggle.com/your-kaggle-username" target="_blank">
