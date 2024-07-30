@@ -12,14 +12,6 @@
 </p>
 
 
-## 📊 My Github Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=ANIRUDDHA-BISWAS&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ANIRUDDHA-BISWAS&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANIRUDDHA-BISWAS&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniruddha-biswas/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/anirudhaa)
