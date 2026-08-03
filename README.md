@@ -3,7 +3,7 @@
 
 <p align="justify">In my current role as an administrative officer at an educational institute, I am dedicated to ensuring the smooth functioning of our organization. Satisfaction in this position is akin to a journal of achievements. It involves meticulous attention to detail, effective coordination, the pursuit of improvement, and learning from both successes and challenges. My goal is to continuously enhance our educational goals through data analysis and machine learning.</p>
 
-- 🔭 I’m currently working on **EduBest**
+- 🔭 I’m currently working on **ICA Edu Skills Pvt. Ltd.**
 - 👯 I'm looking for a career shift **In Data field**
 - 🌱 I’m currently learning **Data Science**
 
